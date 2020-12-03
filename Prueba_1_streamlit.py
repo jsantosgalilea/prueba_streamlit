@@ -1,13 +1,4 @@
 import streamlit as st
-import requests
-import xmltodict
-import folium
-import json
-import pprint
-import pandas as pd
-import numpy as np
-import webbrowser
-import time
 from geopy.geocoders import ArcGIS
 
 st.title("BUCADOR CATASTRAL")
